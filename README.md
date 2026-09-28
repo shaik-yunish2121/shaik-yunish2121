@@ -115,12 +115,6 @@ GITAM University
 
 ---
 
-## 🐍 Contribution Graph
-
-![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🤝 Connect With Me
 
 * 📧 Email: msyunish@gmail.com
