@@ -123,9 +123,7 @@ GITAM University
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile
-* 📧 Email: Add your professional email
-* 🐙 GitHub: You're already here!
+* 📧 Email: msyunish@gmail.com
 
 ---
 
